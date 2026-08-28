@@ -1,0 +1,46 @@
+Catatan Kuliah: Pengantar Pemrograman
+=====================================
+
+Hari ini kita mempelajari dasar-dasar pemrograman komputer.
+Sebuah program adalah kumpulan instruksi yang dijalankan oleh mesin.
+Bahasa pemrograman membantu manusia menulis instruksi tersebut.
+
+Ada dua jenis bahasa: tingkat rendah dan tingkat tinggi.
+Bahasa tingkat rendah contohnya adalah assembly dan kode mesin.
+Bahasa tingkat tinggi contohnya adalah Java, Python, dan C++.
+
+Variabel digunakan untuk menyimpan data sementara di memori.
+Tipe data menentukan jenis nilai yang bisa disimpan variabel.
+Contoh tipe data: integer, float, boolean, dan string.
+
+Struktur kendali mengatur alur eksekusi program.
+Percabangan menggunakan if, else if, dan else.
+Perulangan menggunakan for, while, dan do-while.
+
+Fungsi atau method memecah program menjadi bagian kecil.
+Ini membuat kode lebih mudah dibaca dan dipelihara.
+Parameter digunakan untuk mengirim nilai ke dalam fungsi.
+
+Array menyimpan banyak nilai dalam satu variabel.
+Setiap elemen array diakses menggunakan indeks mulai dari nol.
+Array memiliki ukuran tetap setelah dibuat.
+
+Pointer adalah variabel yang menyimpan alamat memori.
+Pointer penting dalam bahasa seperti C dan C++.
+Di Java, pointer disembunyikan oleh sistem manajemen memori.
+
+Objek adalah instansi dari sebuah kelas.
+Kelas mendefinisikan atribut dan perilaku objek.
+Konsep ini disebut pemrograman berorientasi objek.
+
+Algoritma adalah langkah-langkah sistematis menyelesaikan masalah.
+Struktur data adalah cara mengorganisasi dan menyimpan data.
+Keduanya adalah fondasi ilmu komputer.
+
+Latihan hari ini: buat program cetak bilangan 1 sampai 10.
+Gunakan perulangan for untuk menyelesaikan latihan tersebut.
+Jangan lupa menambahkan komentar pada kode Anda.
+
+Ringkasan: pemrograman butuh logika dan latihan rutin.
+Semakin sering menulis kode, semakin mahir Anda nanti.
+Sampai jumpa di pertemuan berikutnya.
