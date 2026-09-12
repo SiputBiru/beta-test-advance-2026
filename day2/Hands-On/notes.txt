@@ -36,10 +36,14 @@ Konsep ini disebut pemrograman berorientasi objek.
 Algoritma adalah langkah-langkah sistematis menyelesaikan masalah.
 Struktur data adalah cara mengorganisasi dan menyimpan data.
 Keduanya adalah fondasi ilmu komputer.
-
+ 
 Latihan hari ini: buat program cetak bilangan 1 sampai 10.
 Gunakan perulangan for untuk menyelesaikan latihan tersebut.
 Jangan lupa menambahkan komentar pada kode Anda.
+
+Ringkasan: pemrograman butuh logika dan latihan rutin.
+Semakin sering menulis kode, semakin mahir Anda nanti.
+Sampai jumpa di pertemuan berikutnya.
 
 Ringkasan: pemrograman butuh logika dan latihan rutin.
 Semakin sering menulis kode, semakin mahir Anda nanti.

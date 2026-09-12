@@ -14,15 +14,17 @@ lalu menyimpan tiap halaman sebagai **node** dalam **doubly linked list**
 Kursor `current` menunjuk ke halaman yang sedang ditampilkan.
 Berpindah halaman hanya menggeser kursor ke `next`/`prev` - operasi O(1).
 
-## Struktur File
-- `PageNode.java`: node doubly linked list.
-- `Paginator.java`: membagi teks menjadi halaman (15 baris per halaman).
-- `NoteBook.java`: membangun linked list & mengelola navigasi.
-- `Main.java`: antarmuka konsol.
-- `notes.txt`: teks contoh (dummy).
+## Struktur Folder
+- `Hands-On/`: aplikasi catatan utama (Java).
+- `examples/`: contoh linked list sederhana dalam Java dan C.
+
+Detail tiap folder ada di README masing-masing:
+- `Hands-On/README.md`
+- `examples/README.md`
 
 ## Cara Kompilasi & Menjalankan
 ```
+cd Hands-On
 javac *.java
 java Main
 ```
