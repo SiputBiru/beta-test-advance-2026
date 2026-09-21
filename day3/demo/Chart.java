@@ -1,6 +1,6 @@
 public class Chart {
 
-    private static int SPEED = 200;
+    private static int SPEED = 10000;
 
     private static void clear() {
         System.out.print("\033[H\033[2J");
